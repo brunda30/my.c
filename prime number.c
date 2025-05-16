@@ -7,7 +7,7 @@ int main(){
         if(num%2==0){
             printf("its not a prime");
         }else{
-            printf("its a primr");
+            printf("its a prime");
         }
     }
 }
